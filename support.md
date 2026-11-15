@@ -28,7 +28,7 @@ A line on your return didn't match the form's arithmetic, or could only be read 
 In the app's folder in your iCloud Drive, or on the device if iCloud Drive is off. Nothing is sent to the developer. See the [Privacy Policy](privacy.html).
 
 ### How do I move my data to a new device?
-Sign in to the same Apple Account with iCloud Drive on; the data appears automatically. You can also use Settings → "Export backup (JSON)".
+Sign in to the same Apple Account with iCloud Drive on; the data appears automatically.
 
 ### How do I delete everything?
 Settings → "Reset everything". You can also delete the app's folder in iCloud Drive.

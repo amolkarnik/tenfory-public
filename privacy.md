@@ -23,7 +23,6 @@ Tenfory ("the app") shows your own tax documents on your own devices. It is buil
 
 ## Your control
 
-- **Export:** Settings → "Export backup (JSON)" saves your data as a file in a place you choose.
 - **Delete:** Settings → "Clear imported records" or "Reset everything" removes saved data. Deleting the app removes what is saved on the device; data in iCloud Drive stays until you delete the app's folder there.
 
 ## Children
