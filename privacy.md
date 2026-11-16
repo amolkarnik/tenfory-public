@@ -19,6 +19,7 @@ Tenfory ("the app") shows your own tax documents on your own devices. It is buil
 - **Reading documents.** The PDFs you choose are read on your device with Apple's PDFKit and Vision frameworks. The app reads only files you pick in the system file picker or drop onto it.
 - **Saving.** The figures read from your documents, and anything you enter, are saved as files in the app's folder in your own iCloud Drive, so they appear on your other devices signed in to the same Apple Account. If iCloud Drive is off, they are saved on the device only. iCloud storage is provided by Apple under Apple's privacy policy; the developer has no access to it.
 - **Settings.** Display preferences (such as light or dark appearance) are stored on the device.
+- **App lock (optional).** In Settings you can have the app ask for Face ID, Touch ID or your device passcode before it shows your taxes. The check is done by your device. The app is told only whether it succeeded; it never receives or stores your face, fingerprint or passcode. The lock keeps other people who use your unlocked device out of the app. It is not a second layer of encryption: your saved files are protected by your device and your iCloud account, as described above.
 - **Sample data** is built into the app, kept in memory and never saved.
 
 ## Your control
